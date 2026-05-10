@@ -1,8 +1,8 @@
 # Hi 👋, I'm Hussein Shaaban
 
-### ASP.NET Core Back-End Developer | Clean Architecture Enthusiast
+### .NET Backend Developer | ASP.NET Core Web API Developer
 
-Passionate Back-End Developer focused on building scalable and clean web applications using ASP.NET Core Web API and modern software architecture principles.
+Passionate .NET Backend Developer focused on building scalable, secure, and maintainable web applications using ASP.NET Core Web API, Entity Framework Core, and modern software architecture principles.
 
 ---
 
@@ -10,16 +10,17 @@ Passionate Back-End Developer focused on building scalable and clean web applica
 
 * 🎓 Computer Science & Information Technology Student
 * 💻 Specialized in ASP.NET Core Back-End Development
-* 🧠 Interested in Clean Architecture & Design Patterns
+* 🧠 Interested in Clean Architecture & SOLID Principles
 * 🔐 Experienced with Authentication & Authorization using JWT
 * 🗄️ Working with SQL Server & Entity Framework Core
 * 📚 Continuously learning advanced .NET technologies and software architecture
+* 🧩 Passionate about problem-solving and backend system design
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend Development
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-68217A?style=for-the-badge\&logo=.net\&logoColor=white)
@@ -28,8 +29,9 @@ Passionate Back-End Developer focused on building scalable and clean web applica
 ### Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 ### Tools & Technologies
 
@@ -41,13 +43,27 @@ Passionate Back-End Developer focused on building scalable and clean web applica
 
 ---
 
+## 💼 Experience
+
+### Backend .NET Intern — MEAPAL (CORELIA DATA TAMER)
+
+📅 July 2025 – September 2025
+
+* Developed RESTful APIs using ASP.NET Core Web API
+* Implemented database operations using Entity Framework Core
+* Applied JWT authentication and authorization mechanisms
+* Designed scalable backend architecture following Clean Architecture principles
+* Collaborated with team members to build and integrate backend services
+
+---
+
 ## 📌 Featured Project
 
 ### 🔹 Discover Egypt API
 
 A scalable tourism platform backend built using ASP.NET Core Web API featuring:
 
-* Clean Architecture
+* Clean Architecture (Onion Architecture)
 * JWT Authentication & Refresh Tokens
 * Role-Based Authorization
 * Booking & Payment System
@@ -56,6 +72,17 @@ A scalable tourism platform backend built using ASP.NET Core Web API featuring:
 * Guide Request Workflow
 * SQL Server & Entity Framework Core
 * Swagger API Documentation
+
+---
+
+## 🧠 Computer Science Fundamentals
+
+* OOP
+* Data Structures & Algorithms
+* SOLID Principles
+* Clean Architecture
+* Relational Database Design
+* Dependency Injection & Middleware
 
 ---
 
