@@ -1,9 +1,12 @@
 <div align="center">
 
-# Hussein Shaaban Hassan Abd El-Gayed
+# Hussein Shaaban Hassan
+
 ### .NET Backend Developer · ASP.NET Core · Clean Architecture
 
-*Building scalable, secure, and maintainable backend systems — one clean API at a time.*
+*Building scalable, secure, and production-ready backend systems using ASP.NET Core.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=husseinshaabanh&color=blueviolet&style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husseinshaabanh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:husseinshaaban.h@gmail.com)
@@ -15,110 +18,155 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science senior student** at El Shorouk Academy (graduating June 2026), specializing in **.NET Backend Development**. I focus on writing clean, testable code and designing systems that are built to scale.
+I'm a **Computer Science senior student** at El Shorouk Academy (Expected Graduation: June 2026), specializing in **.NET Backend Development**.
 
-- 🏗️ I apply **Clean Architecture (Onion)** and **SOLID Principles** in every project I build
-- 🔐 Experienced with **JWT Authentication**, **ASP.NET Identity**, and **Role-based Authorization**
-- 🧪 Practicing **Unit Testing** with xUnit & Moq
-- 🏆 Competed in the **Egyptian Collegiate Programming Contest (ECPC)**
-- 👨‍🏫 Former **Technical Instructor at IEEE El Shorouk** — taught Data Structures & Algorithms to 30+ students
-- 📍 Cairo, Egypt · Open to opportunities
+I focus on building scalable backend systems with clean architecture principles, secure authentication, and maintainable code.
+
+- 🏗️ Applying **Clean Architecture (Onion Architecture)** & **SOLID Principles**
+- 🔐 Experienced with **JWT Authentication**, **ASP.NET Identity**, and **Role-Based Authorization**
+- 🧪 Practicing **Unit Testing** using xUnit & Moq
+- 🐳 Familiar with **Docker** and containerized applications
+- 🏆 ECPC Participant (Egyptian Collegiate Programming Contest)
+- 👨‍🏫 Former **Technical Instructor at IEEE El Shorouk**
+- 📍 Cairo, Egypt
+- 💼 Open to internships & Junior .NET Backend opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Backend**
+## 🚀 Backend
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-68217A?style=flat-square&logo=.net&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
-**Languages**
+---
+
+## 💻 Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Database**
+---
+
+## 🗄️ Database
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Tools**
+---
+
+## 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Concepts**
-
-`Clean Architecture` `SOLID Principles` `OOP` `Design Patterns` `Dependency Injection` `Unit Testing` `Data Structures & Algorithms`
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Concepts
 
-### 🌍 Discover Egypt — Tourism Platform API
-> *Graduation Project · 2026*
-
-A full-scale backend system for a tourism platform enabling users to explore Egyptian attractions via web and mobile apps.
-
-**Key Features:**
-- Clean Architecture (Onion) with full separation of concerns
-- JWT Authentication + ASP.NET Identity + Role-based Authorization
-- Booking, Messaging, Reviews, Favorites & Guide Request workflows
-- Entity Framework Core + SQL Server with query optimization
-- Full Swagger API documentation
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/husseinshaabanh/DiscoverEgypt)
+```text
+Clean Architecture • SOLID Principles • OOP • Design Patterns
+Dependency Injection • Unit Testing • Data Structures & Algorithms
+```
 
 ---
 
-### 📚 Book Store — Desktop Application
-> *November 2024*
+# 🚀 Featured Projects
 
-A desktop inventory management system built with C# WinForms for managing books and users.
+## 🌍 Discover Egypt — Tourism Platform API
 
-**Key Features:**
-- Full CRUD operations with ADO.NET & SQL Server
-- Optimized SQL queries — joins, subqueries, stored procedures
-- Clean UI with WinForms
+> Graduation Project · 2026
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/husseinshaabanh/BookStore)
+A scalable backend system for a tourism platform that enables users to explore Egyptian attractions through web and mobile applications.
+
+### ✨ Features
+
+- Clean Architecture (Onion Architecture)
+- JWT Authentication & ASP.NET Identity
+- Role-Based Authorization
+- Booking & Reservation System
+- Reviews & Favorites
+- Messaging & Guide Requests
+- Entity Framework Core + SQL Server
+- Swagger API Documentation
+
+### 🛠️ Tech Used
+
+`ASP.NET Core` `EF Core` `SQL Server` `JWT` `Clean Architecture`
+
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husseinshaabanh/DiscoverEgypt)
+
+---
+
+## 📚 Book Store Management System
+
+> November 2024
+
+A desktop management system built with C# WinForms for handling books, users, and inventory operations.
+
+### ✨ Features
+
+- CRUD Operations
+- SQL Server Integration
+- Stored Procedures & Joins
+- Clean WinForms UI
+- ADO.NET Database Handling
+
+### 🛠️ Tech Used
+
+`C#` `WinForms` `ADO.NET` `SQL Server`
+
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husseinshaabanh/BookStore)
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=husseinshaabanh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husseinshaabanh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 💼 Experience
+
+## Backend .NET Developer Intern — MEAPAL (CORELIA DATA TAMER)
+
+`July 2025 – September 2025`
+
+- Built and maintained RESTful APIs using ASP.NET Core Web API
+- Implemented JWT Authentication & EF Core database operations
+- Applied Clean Architecture principles in backend services
+- Collaborated with cross-functional teams in real-world projects
+
+---
+
+# 📫 Connect With Me
+
 <div align="center">
 
-![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=husseinshaabanh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinshaabanh&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husseinshaabanh/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husseinshaabanh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husseinshaaban.h@gmail.com)
 
 </div>
 
 ---
 
-## 💼 Experience
-
-**Backend .NET Developer Intern · MEAPAL (CORELIA DATA TAMER)**
-`July 2025 – September 2025`
-
-- Built and maintained RESTful APIs using ASP.NET Core Web API
-- Implemented EF Core database operations and JWT-based security
-- Designed backend architecture following Clean Architecture principles
-- Collaborated with cross-functional teams to deliver backend services
-
----
-
 <div align="center">
 
-*Open to Junior .NET Developer roles & Internship opportunities*
-**📩 husseinshaaban.h@gmail.com**
+### 💡 “Clean code always looks like it was written by someone who cares.”
+
+⭐ From [husseinshaabanh](https://github.com/husseinshaabanh)
 
 </div>
