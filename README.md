@@ -53,6 +53,7 @@ I'm a **Computer Science senior student** at El Shorouk Academy (graduating June
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Concepts**
 
@@ -96,8 +97,8 @@ A desktop inventory management system built with C# WinForms for managing books 
 
 <div align="center">
 
-![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=husseinshaabanh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinshaabanh&layout=compact&theme=tokyonight&hide_border=true)
+![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=husseinshaabanh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinshaabanh&layout=compact&theme=tokyonight)
 
 </div>
 
